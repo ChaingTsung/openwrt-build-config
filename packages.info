@@ -1,0 +1,11 @@
+src-git packages https://git.openwrt.org/feed/packages.git;openwrt-23.05
+src-git luci https://git.openwrt.org/project/luci.git;openwrt-23.05
+src-git routing https://git.openwrt.org/feed/routing.git;openwrt-23.05
+src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-23.05
+src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
+src-git zerotier https://github.com/mwarning/zerotier-openwrt.git
+#src-git quectel_mhi https://github.com/ChaingTsung/quectel_mhi_rm50x.git
+#src-git quectel_qconnector https://github.com/ChaingTsung/Quectel_QConnector.git
+#src-git fibocom_dail https://github.com/ChaingTsung/Fibocom_dail_software_Linux.git
+#src-git fibocom_mhi https://github.com/ChaingTsung/Fibocom_FM150-AE-00_PCIE-DRIVER.git
